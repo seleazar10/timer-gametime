@@ -1,0 +1,19 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+#shapes{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-60%, -50%);
+
+
+}
